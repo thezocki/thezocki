@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-0B1DFF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 </br>
 [![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-339933?style=for-the-badge&logo=c++&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/CPP-339933?style=for-the-badge&logo=cpp&logoColor=white&labelColor=101010)]()
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
