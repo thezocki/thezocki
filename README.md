@@ -1,29 +1,23 @@
-<h1 align="center">Hola 👋, Soy TheZocki (Alex)</h1>
-<h3 align="center">Soy un programador apasionado de C++, Go y Java.</h3>
+# **Hi, I'm Alex!**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thezocki&label=Profile%20views&color=0e75b6&style=flat" alt="thezocki" /> </p>
+### **Introduction**
+I'm a passionate developer who **likes building cool things** with **C++**, **Java** and **Go**. I'm particularly skilled in **programming videogames** (clientside and serverside), using Unreal Engine and my own Game Engine.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thezocki" alt="thezocki" /></a> </p>
+I have also worked for several **large Minecraft servers and content creators**, where I created **games and events** that were enjoyed by **thousands of people**.
 
-<p align="left"> <a href="https://twitter.com/thezockis" target="blank"><img src="https://img.shields.io/twitter/follow/thezockis?logo=twitter&style=for-the-badge" alt="thezockis" /></a> </p>
+> Currently working on Hybox, a Minecraft Server who wants to innovate with new games. **Also available for hire!**
 
-- 🔭 Actualmente estoy trabajando en [Hybox](https://github.com/HyboxDev)
+### **Some of my skills**
 
-- 🌱 Actualmente estoy aprendiendo **Java, C++ y Go**
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,workers,vercel,grafana,git,github,gitlab,nodejs,npm,maven,gradle,gcp,azure,heroku,vscode,sublime,idea,webstorm,postman,intellij,unrealengine,unity,codepen,replit&perline=10)](https://skillicons.dev)
 
-- 📫 ¿Cómo puedes contactarme? **zocki@hybox.gg**
+### **I have used it occasionally**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thezockis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thezockis" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/thezocki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thezocki/" height="30" width="40" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,postgres,html,css,tailwindcss,react,vue,nextjs,webflow,vite,electron,express,graphql,apollo,nestjs)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### **I want to learn / I'm currently learning**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezocki&show_icons=true&locale=en&layout=compact" alt="thezocki" /></p>
+[![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,rust,kotlin)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thezocki&show_icons=true&locale=en" alt="thezocki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thezocki&" alt="thezocki" /></p>
+### **Minecraft**
+I also have experience in crafting **Minecraft plugins/mods** using **PaperMC** (a Spigot fork, which is a Bukkit fork), **Fabric**, **BungeeCord** & **Velocity** APIs and I enjoy working with databases like **MongoDB**, **Redis**, and occasionally **MySQL**.
