@@ -9,7 +9,7 @@ I have also worked for several **large Minecraft servers and content creators**,
 
 ### **Some of my skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,workers,vercel,grafana,git,github,gitlab,nodejs,npm,maven,gradle,gcp,azure,heroku,vscode,sublime,idea,webstorm,postman,intellij,unrealengine,unity,codepen,replit&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,cpp,linux,sqlite,mysql,mongo,redis,bots,nginx,cloudflare,workers,vercel,grafana,git,github,gitlab,nodejs,npm,maven,gradle,gcp,azure,heroku,vscode,sublime,idea,webstorm,postman,intellij,unrealengine,unity,codepen,replit&perline=10)](https://skillicons.dev)
 
 ### **I have used it occasionally**
 
