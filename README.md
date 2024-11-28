@@ -5,7 +5,7 @@ I'm a passionate developer who **likes building cool things** with **C++**, **Ja
 
 I have also worked for several **large Minecraft servers and content creators**, where I created **games and events** that were enjoyed by **thousands of people**.
 
-> Currently working on Hybox, a Minecraft Server who wants to innovate with new games. **Also available for hire!**
+> Currently working on a personal Game Engine, with expectations of making it open-source in the near future.
 
 ### **Some of my skills**
 
