@@ -1,7 +1,7 @@
 # **Hi, I'm Alex!**
 
 ### **Introduction**
-I'm a passionate developer who **likes building cool things** with **C++**, **Java** and **Go**. I'm particularly skilled in **programming videogames** (clientside and serverside), using Unreal Engine and my own Game Engine (OasisGameEngine).
+I'm a passionate developer who **likes building cool things** with **C++**, **Java** and **Go**. I'm particularly skilled in **programming videogames** (clientside and serverside), using Unreal Engine and my own Game Engine (Horizon Engine).
 
 I have also worked for several **large Minecraft servers and content creators**, where I created **games and events** that were enjoyed by **thousands of people**.
 
